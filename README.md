@@ -19,3 +19,8 @@ Dieses Java-Programm demonstriert das Konzept der Vererbung in der objektorienti
 2. **Klonen Sie das Repository**:
    ```shell
    git clone https://github.com/Jenby32/Inheritance.git
+
+## Screenshot
+![App.java](images/AppJava.png)
+
+
